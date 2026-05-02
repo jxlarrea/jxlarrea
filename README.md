@@ -11,7 +11,7 @@ I'm obsessed with Home Assistant Voice and the idea that one day it'll make Alex
 
 <hr />
 <p align="center">
-These projects are free and will stay that way. If they've earned a coffee, the button's right here:
+These projects are open source and will stay that way. If they've earned a coffee, the button's right here:
   </p>
   <p align="center">
 <a href="https://buymeacoffee.com/jxlarrea"><img align="top" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
