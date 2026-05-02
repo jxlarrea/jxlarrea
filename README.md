@@ -9,5 +9,10 @@ I'm obsessed with Home Assistant Voice and the idea that one day it'll make Alex
 - [Wyoming Voice Match](https://github.com/jxlarrea/wyoming-voice-match): A Wyoming protocol ASR proxy that verifies speaker identity and isolates voice commands from background noise before forwarding audio to a downstream speech-to-text service.
 - [Home Assistant Voice Control Recipes](https://github.com/jxlarrea/homeassistant-voice-recipes): GPU/CUDA-accelerated voice control stack for Home Assistant. Runs on x86/x64 and ARM64 (including the NVIDIA DGX Spark). 100% Local - No Cloud, No Subscriptions.
 
+<hr />
+<p align="center">
 These projects are free and will stay that way. If they've earned a coffee, the button's right here:
+  </p>
+  <p align="center">
 <a href="https://buymeacoffee.com/jxlarrea"><img align="top" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+</p>
